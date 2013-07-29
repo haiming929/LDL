@@ -19,6 +19,7 @@ namespace LDL.Client
         public FrmLogin()
         {
             InitializeComponent();
+		//ABC;
         }
 
         #region 事件
